@@ -13,5 +13,6 @@ public class Test {
 		l.add(1);
 		l.add(2);
 		System.out.println(l.get(1));
+		System.out.println(l.get(2));
  	}
 }
